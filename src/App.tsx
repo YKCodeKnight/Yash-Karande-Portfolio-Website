@@ -177,7 +177,7 @@ export default function App() {
             <div className="max-w-7xl w-full grid md:grid-cols-2 gap-4 items-center justify-center">
               <div className="w-80 h-80 rounded-full border-[5px] border-[#001F54] flex items-center justify-center">
                 <ImageWithFallback
-                  src="/Yash Karande Suit.jpeg"
+                  src="public\Yash Karande Suit.jpeg"
                   alt="Profile"
                   className="w-72 h-72 rounded-full object-cover"
                 />

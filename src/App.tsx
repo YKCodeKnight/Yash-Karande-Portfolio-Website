@@ -139,7 +139,7 @@ export default function App() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-[#001F54] shadow-lg">
         <div className=" max-w-screen-xl mx-auto bg-[#001F54] rounded-full px-8 py-3 shadow-lg flex items-center justify-between">
           <img
-            src="public\Logo.jpg"
+            src="logo.jpg"
             alt="Logo"
             className="h-20 w-20 object-contain rounded-full ml-6"
           />

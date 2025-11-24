@@ -54,17 +54,17 @@ export default function App() {
     {
       title: "IBM - Introduction to AI",
       issuer: "IBM through Coursera, 2023",
-      link: "Coursera- Intro To AI Certificate.pdf"
+      link: "/ai.pdf"
     },
     {
       title: "IBM - Machine Learning with Python",
       issuer: "IBM through Coursera, 2023",
-      link: "Coursera- Machine Learning with Python Certificate.pdf"
+      link: "/ml.pdf"
     },
     {
       title: "AWS Academy Graduate - Cloud Architecting - Training Badge",
       issuer: "AWS, 2025",
-      link: "AWS_Academy_Graduate___Cloud_Architecting___Training_Badge_Badge20251124-30-fp68sl.pdf"
+      link: "/aws.pdf"
     }
   ];
 
@@ -104,17 +104,17 @@ export default function App() {
     {
       title: "Cyber Cypher 3.0 Hackathon - Team Leader",
       description: "Led a team of three to develop a comprehensive Hospital Management Portal facilitating streamlined communication between doctors, hospital staff, and patients. Implemented features enabling patients to access diagnostic reports, schedule appointments, and process hospital payments, significantly improving overall care coordination.",
-      certificateLink: "Cyber Cypher 3 Certificate.pdf"
+      certificateLink: "/cypher.pdf"
     },
     {
       title: "Google Backend Development Bootcamp",
       description: "Completed an intensive 7-day backend development bootcamp focused on Node.js express and javascript, gaining hands-on experience through interactive coding exercises and project-based learning on the Replit platform. Developed practical skills in server-side programming, API design, and application deployment and gained expertise in concepts of RESTful API. ",
-      certificateLink: "Google Certificate for Backend Developing Bootcamp.pdf"
+      certificateLink: "/backend.pdf"
     },
     {
       title: "AWS Frontend Development Bootcamp",
       description: "Successfully completed a 7-day immersive bootcamp with AWS and Devtown, concentrating on React.js and JavaScript. Gained practical experience by developing interactive projects and coding exercises on the Replit platform.",
-      certificateLink: "AWS Certificate for Frontend Web Developing BOOTcamp with ReactJS.pdf"
+      certificateLink: "/frontend.pdf"
     },
     {
       title: "Analytica Data Feud - Semi Finalist",
@@ -124,12 +124,12 @@ export default function App() {
     {
       title: "Colloquium - Stockraze",
       description: "Participated in  a simulation for trading using concept of paper trading, providing a dynamic environment between participants. This hands-on experience allowed me to gain a deep understanding of stock market fundamentals, including market analysis and trade execution. ",
-      certificateLink: "Stockraze 2022.pdf"
+      certificateLink: "/stock.pdf"
     },
     {
       title: "Programming for Everyone - ACM",
       description: "Attended a 3-day workshop focused on foundational programming concepts in C++ and Python, gaining experience in writing and debugging code. Covered key topics such as data structures, algorithms, and control flow. Using integrated development environments like PyCharm and VSCode, to enhance debugging",
-      certificateLink: "ACM PFE 2022.pdf"
+      certificateLink: "/acm.pdf"
     }
   ];
 

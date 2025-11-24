@@ -119,7 +119,7 @@ export default function App() {
     {
       title: "Analytica Data Feud - Semi Finalist",
       description: "Competed in Analytica's Data Science Quiz competition, a challenging event that brought together 50 teams from diverse backgrounds. Advanced to the semi-final round, demonstrating strong expertise in data science concepts, analytical thinking, and problem-solving. ",
-      certificateLink: "Data_Feud_Participation _Certificate.png"
+      certificateLink: "/datafeud.png"
     },
     {
       title: "Colloquium - Stockraze",
@@ -296,7 +296,7 @@ export default function App() {
           num: 1,
           title: "Medicam: A Medicine Scanning App",
           image:
-            "CV Poster.png",
+            "/medicam.png",
           description:
             "Medicam, a comprehensive platform comprising a website and mobile application is where users can upload images of medicine packets to retrieve information about its uses, side effects, and composition. Deployed on a Flask backend with React data to train the application was gathered from various medical online sources on the internet. This project was recognized at Saavishkar, hosted by the IEEE Computer Society and NMIMS MPSTME Mumbai, developed my experience in modern web development technologies and computer vision",
           technologies: ["React", "Android Studio", "PaddleOCR", "Flask"],
@@ -305,7 +305,7 @@ export default function App() {
           num: 2,
           title: "Hospital Management Portal",
           image:
-            "Hospital Management Portal.png",
+            "/hospital.png",
           description:
             "Developed a comprehensive web platform for a hospital aimed at facilitating seamless communication between doctors, hospital staff, and patients. The platform enables patients to easily access their diagnostic reports, schedule appointments, and make hospital payments, significantly enhancing the overall patient experience. Additionally, it streamlines doctor-patient communication by providing an intuitive interface, ensuring efficient interactions and improved service delivery across the healthcare facility. Presented at Cyber Cypher 3.0 hackathon. ",
           technologies: ["HTML", "CSS", "JavaScript", "Node", "AngularJS"],
@@ -314,7 +314,7 @@ export default function App() {
           num: 3,
           title: "XR French Language Learning App",
           image:
-            "XR French Learning App.png",
+            "/xr.png",
           description:
             "Developed an interactive and engaging learning experience for beginner French learners, designed to improve their communication and pronunciation skills. The project involved creating a virtual world with free navigation and interactive elements, where users could engage with objects and receive French names of the items through immersive haptic feedback. To further assess language proficiency, a quiz was incorporated at the end of the game.",
           technologies: ["Oculus", "Unity", "C#", "Meta All in One SDK"],

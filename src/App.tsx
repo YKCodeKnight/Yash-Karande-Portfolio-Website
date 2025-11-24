@@ -139,7 +139,7 @@ export default function App() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-[#001F54] shadow-lg">
         <div className=" max-w-screen-xl mx-auto bg-[#001F54] rounded-full px-8 py-3 shadow-lg flex items-center justify-between">
           <img
-            src="public\images\Logo.jpg"
+            src="public\images\logo.jpg"
             alt="Logo"
             className="h-20 w-20 object-contain rounded-full ml-6"
           />
@@ -177,7 +177,7 @@ export default function App() {
             <div className="max-w-7xl w-full grid md:grid-cols-2 gap-4 items-center justify-center">
               <div className="w-80 h-80 rounded-full border-[5px] border-[#001F54] flex items-center justify-center">
                 <ImageWithFallback
-                  src="public\Yash Karande Suit.jpeg"
+                  src="public\images\suit.jpeg"
                   alt="Profile"
                   className="w-72 h-72 rounded-full object-cover"
                 />

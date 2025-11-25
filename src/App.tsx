@@ -441,7 +441,7 @@ export default function App() {
             <div className="space-y-6">
               <div style={{ textAlign: 'justify' }}>
                 <p className="text-gray-600 mb-1 text-[16px]">Email</p>
-                <a href="mailto:your.email@example.com" className="text-[#001F54] hover:text-[#001F54]/80 text-[18px]">
+                <a href="mailto:yashkarande77@gmail.com" className="text-[#001F54] hover:text-[#001F54]/80 text-[18px]">
                   yashkarande77@gmail.com
                 </a>
               </div>
